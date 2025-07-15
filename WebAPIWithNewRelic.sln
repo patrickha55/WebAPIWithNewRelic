@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36301.6 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebAPIWithNewRelic", "WebAPIWithNewRelic\WebAPIWithNewRelic.csproj", "{1CD5077D-2BE9-442C-B4DB-9399AEF9E926}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1CD5077D-2BE9-442C-B4DB-9399AEF9E926}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1CD5077D-2BE9-442C-B4DB-9399AEF9E926}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1CD5077D-2BE9-442C-B4DB-9399AEF9E926}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1CD5077D-2BE9-442C-B4DB-9399AEF9E926}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E115AD9F-7899-4C4E-A5FF-90BEAD1A463A}
+	EndGlobalSection
+EndGlobal
